@@ -1,0 +1,17 @@
+.bg{
+    background-color: #131A20;
+}
+
+.sizes{
+    font-size: 15px;
+}
+
+.zen{
+    z-index: 1;
+}
+.cotegory{
+    z-index: 2;
+}
+.bcgs{
+    background-color: white;
+}
